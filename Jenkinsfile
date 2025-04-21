@@ -29,6 +29,7 @@ post {
         failure { 
             echo 'Build failed!' 
             // You could add notification steps here 
+            //test
         } 
     } 
 } 
